@@ -1,0 +1,314 @@
+[
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\AmmuBoxComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\AmmuBoxComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTServicePlayerOnSight.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTServicePlayerOnSight.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskFollowPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskFollowPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskReturnToStartLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskReturnToStartLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskShootPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\BTTaskShootPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\EnemyController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\EnemyController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\MovingRightLeftBTTask.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\MovingRightLeftBTTask.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\MyBTTaskCheckPlayerLastLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\MyBTTaskCheckPlayerLastLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\NormalEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\NormalEnemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\RotateWhileWaitingService.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\RotateWhileWaitingService.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\StealthSurvivorMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\SurvivorCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\SurvivorCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\SurvivorCharacterController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\SurvivorCharacterController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\TheGun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\TheGun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\WinningBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\Source\\StealthSurvivor\\WinningBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\StealthSurvivor\\.vscode\\compileCommands_Default\\StealthSurvivor.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	}
+]
