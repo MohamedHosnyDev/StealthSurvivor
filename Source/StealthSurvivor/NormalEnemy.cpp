@@ -13,7 +13,7 @@
 //The Player and PlayerController were decleared here to avoid the circular dependency
 ASurvivorCharacter * Player ;
 // used to stop shooting by the enemy when the game end`s by accessing GameEnded bool variable
-ASurvivorCharacterController * PlayerController ;
+ASurvivorCharacterController * MyPlayerController ;
 
 ANormalEnemy::ANormalEnemy()
 {
@@ -41,7 +41,7 @@ void ANormalEnemy::BeginPlay()
 		Gun->SetOwner(this);
 		Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform , TEXT("GunPlace"));
 	}
-	PlayerController = Cast<ASurvivorCharacterController>(UGameplayStatics::GetPlayerController(GetWorld(),0));
+	MyPlayerController = Cast<ASurvivorCharacterController>(UGameplayStatics::GetPlayerController(GetWorld(),0));
 	
 }
 
@@ -50,7 +50,7 @@ void ANormalEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	if(PlayerController->GameEnded)
+	if(MyPlayerController->GameEnded)
 	{
 		StopShooting = true ;
 	}
